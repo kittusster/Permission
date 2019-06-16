@@ -680,6 +680,10 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
+id button2
+id button3
+id button4
 id buttonPanel
 id center
 id center_horizontal
@@ -830,6 +834,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main2
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
